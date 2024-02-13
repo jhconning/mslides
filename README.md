@@ -1,24 +1,21 @@
-<!--
+---
+marp: true
 theme: gaia
 class:
  - invert
-headingDivider: 2 
-paginate: true
--->
-
-<!--
-_class:
  - lead
- - invert
--->
+paginate: true
+---
 
 # Deploy Marp Slides to GitHub Pages
 
-[Marp](https://marp.app/) lets you create HTML slides from markdown (like this!).
+[Marp](https://marp.app/) lets you create HTML slides from markdown (like this).
 
-This presentation is both a [website](https://jhconning.github.io/slides) and a [README.md](https://github.com/jhconning/marp-to-pages/blob/main/README.md).
+This presentation is both a [website](https://jhconning.github.io/slides) and a [README.md](https://github.com/jhconning/mslides/blob/main/README.md).
 
 See also [This rendering of the docs folder](./docs/)
+
+Based on: [marp-to-pages template](https://github.com/jhconning/mslides/tree/main)
 
 ---
 
@@ -32,9 +29,4 @@ Treat your presentation the same way you treat code.
 - See a problem? Open an issue!
 
 ---
-
-<!--
-_class:
- - lead
- - invert
--->
+More details: https://marpit.marp.app/directives
